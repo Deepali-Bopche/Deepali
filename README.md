@@ -1,2 +1,3 @@
 # Deepali
-f=Thus is my Git Repository
+This is my Git Repository
+Author-Deepali
